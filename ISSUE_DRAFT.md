@@ -20,7 +20,7 @@ root `resolutions` entries.
 Minimal repo:
 
 ```sh
-git clone <REPRO_REPO_URL>
+git clone https://github.com/dharmendra94/pnpm-v10-resolutions-overrides-repro.git
 cd pnpm-v10-resolutions-overrides-repro
 pnpm run repro
 ```
